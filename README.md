@@ -1,4 +1,4 @@
-# yuki_py_1
+# my games.py
 import random
 import sys
 print("数あてゲームを始めます10回以内に正解となる答えを当ててください。")
@@ -30,4 +30,4 @@ while(guess !=answer):
 #whileが終了したため、予想が的中した。
 print("正解です答えは{}でした".format(answer))
 print("あなたの試行回数は{}でした".format(tries))
-# yuki_py_1
+
